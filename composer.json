@@ -1,0 +1,20 @@
+{
+    "name": "yunyala/laravel-model-to-markdown",
+    "description": "A Model-to-markdown conversion helper base on Mongodb for Laravel",
+    "type": "library",
+    "require": {
+        "doctrine/inflector": "2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yunyala\\LaravelModelToMarkdown\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yunyala",
+            "email": "892722202@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
