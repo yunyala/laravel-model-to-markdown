@@ -10,7 +10,9 @@ A Model-to-markdown conversion helper base on Mongodb for Laravel
 
 ## Publish Service
 
-> php artisan vendor:publish --provider="Yunyala\LaravelModelToMarkdown\LaravelModelToMarkdownServiceProvider"
+```php
+php artisan vendor:publish --provider="Yunyala\LaravelModelToMarkdown\LaravelModelToMarkdownServiceProvider"
+```
 
 ## Code Examples
 
