@@ -7,7 +7,7 @@ use Yunyala\LaravelModelToMarkdown\Facades\LaravelModelToMarkdown;
 class Test
 {
     /**
-     * 将模型文件转换成markdown文档，转换前注意修改配置文件-laravelmodeltomarkdown.php中的模型目录路径。
+     * Convert Model files to Markdown files. Before conversion, pay attention to modifying the model directory path in the configuration file - lavelmodeltomarkdown.php
      * @return mixed
      */
     public function convert()
