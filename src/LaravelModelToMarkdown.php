@@ -24,7 +24,7 @@ class LaravelModelToMarkdown
     }
 
     /**
-     * 转换
+     * 将模型文件转换成markdown文档
      * @return string
      * @throws \ReflectionException
      */
